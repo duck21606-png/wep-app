@@ -1,0 +1,6 @@
+{
+  "name": "Savor - Meal Planning & Recipe Customizer",
+  "description": "Mindful weekly menu catalog, batch scaling recipe customizer, and consolidated smart shopping list.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
